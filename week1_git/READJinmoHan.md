@@ -33,6 +33,6 @@
 - 이미지 넣기 실습하기
 ![](https://user-images.githubusercontent.com/95974511/224467185-5f20f8e1-0bbc-4684-9cf2-86e1eb64b817.png)
 
-- <u> 감사합니다. </u>
-- **감사합니다.**
-- *감사합니다.*
+- <span style="font-size:250%"><u> 감사합니다. </u></span>
+- <span style="color:red; font-size:125%; background-color:white">**감사합니다.**</span>
+>  *감사합니다.*
